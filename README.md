@@ -12,6 +12,6 @@ This Python script filters and analyzes Java thread dumps. It provides flexibili
 ## Usage
 
 ```bash
-./script.py -f thread_dump.txt [--method METHOD] [--name NAME] [--status STATUS]
+./filter_thread_dump.py -f thread_dump.txt [--method METHOD] [--name NAME] [--status STATUS]
 ```
 
